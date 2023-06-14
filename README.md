@@ -1,0 +1,2 @@
+# collegepulsenews
+all college imformation
